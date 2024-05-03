@@ -2,11 +2,12 @@
 
 **Problem Statement**
 
-x-store sells items to customers. To increses the business, further needs insights for growth of the business.
+x-store sells items to customers. Need a report further growth of the business.
 
 **Objective**
 
 ●	To improve customer experience by analyzing sales data and increse the revenue.
+
 
 **Libraries:**
 
@@ -19,5 +20,19 @@ x-store sells items to customers. To increses the business, further needs insigh
 
 **Key Insights:**
 
-●	
-●	
+●	Gender Count Vs Sex
+
+●	Gender Vs Total Amount
+
+●	Age Group Vs Amount
+
+●	State Vs Amount
+
+●	MArital Status with Count
+
+●	Product Category Vs Count
+
+●	Product ID Vs Orders
+
+●	Top 10 most sold products
+
