@@ -28,11 +28,15 @@ x-store sells items to customers. Need a report further growth of the business.
 
 ●	State Vs Amount
 
-●	MArital Status with Count
+●	Marital Status with Count
 
 ●	Product Category Vs Count
 
 ●	Product ID Vs Orders
 
 ●	Top 10 most sold products
+
+**Conclusion:**
+
+Married Women age group 26-35 years from Uttar Pradesh,Maharastra and Karnataka wrking in IT,Health Care and Aviation are more likely to buy products from Food, Clothing and Electronic category.
 
