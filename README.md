@@ -1,4 +1,23 @@
 # ** Diwali Sales Data Analysis **
-●	The entire project work developed on Jupyter notebook-web application to improve customer experience for improving the sales.
 
-●	Used required libraries like Pandas, NumPy, Mat plot, Seaborn generated report for improving the business in terms of revenue.
+**Problem Statement**
+
+x-store sells items to customers. To increses the business, further needs insights for growth of the business.
+
+**Objective**
+
+●	To improve customer experience by analyzing sales data and increse the revenue.
+
+**Libraries:**
+
+1. Pandas
+2. NumPy
+3. Mat plot
+4. Seaborn
+
+● The entire project work was developed on Jupyter notebook-web application.
+
+**Key Insights:**
+
+●	
+●	
